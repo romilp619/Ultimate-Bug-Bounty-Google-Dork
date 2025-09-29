@@ -90,31 +90,3 @@ python3 ultimate_bug_bounty_dork_generator_final.py
 
 ```
 
-## Usage
-
-The main menu shows options 1–10. Examples:
-
-- Option 1 — Generate dork for specific domain: enter domain, choose category number.
-
-- Option 2 — Random domain dork: picks a random domain from DOMAINS.
-
-- Option 3 — List all domains
-
-- Option 4 — Generate multiple random dorks (choose count + category)
-
-- Option 5 — Auto search single dork: opens the generated dork in your browser.
-
-- Option 6 — Browse categories
-
-- Option 7 — Generate by category name: paste exact category string
-
-- Option 8 — Bulk generate all dorks for a domain
-
-- Option 9 — Multi-search automation:
-
-  - Multiple dorks on a single domain (pick domain + categories)
-  - Single dork across multiple domains (paste domains, pick category)
-
-- Option 10 — Exit
-
-- Tip: The multi-search automation opens many browser tabs — ensure your browser and machine can handle the load, and avoid spamming third-party sites.
